@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/AniaSzwal/git-learning-2#readme",
   "devDependencies": {
-    "browser-sync": "^2.26.14"
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.26.14",
+    "html-validate": "^4.5.0"
   },
   "dependencies": {
     "postcss-cli-simple": "^3.1.0"
