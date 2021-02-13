@@ -1,6 +1,7 @@
 
 body{
     margin-left: 20%;
+    display: flex;
 }
     h1 {
         color: red;
